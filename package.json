@@ -1,0 +1,23 @@
+{
+  "name": "githubportfolio",
+  "version": "1.0.0",
+  "description": "portfolio page for doyle miles",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesdo83/milesdo83.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milesdo83/milesdo83.github.io/issues"
+  },
+  "homepage": "https://github.com/milesdo83/milesdo83.github.io#readme"
+}
